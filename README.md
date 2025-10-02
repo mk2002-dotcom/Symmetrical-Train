@@ -26,12 +26,16 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 python Introduction/plot.py
 
-Purpose
+---
+
+## Purpose
 
 This project is not a polished library, but rather a collection of experiments.
 It aims to make learning AI and simulations more approachable and fun.
 
-Contributing
+---
+
+## Contributing
 
 Contributions, suggestions, and ideas are always welcome!
 Feel free to open an issue or submit a pull request.
