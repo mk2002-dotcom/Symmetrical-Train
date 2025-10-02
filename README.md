@@ -24,7 +24,8 @@ Clone this repository and try the examples:
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
-python Introduction/plot.py```
+python Introduction/plot.py
+```
 
 ---
 
