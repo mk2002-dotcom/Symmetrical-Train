@@ -1,5 +1,5 @@
 # Symmetrical-Train
-A collection of **fun and educational code examples** in Artificial Intelligence and Simulation.  
+A collection of **interesting and educational code examples** in Artificial Intelligence and Simulation.  
 This repository is designed as a **playground** for learning, experimenting, and exploring new ideas.
 
 ---
