@@ -13,7 +13,7 @@ This repository is designed as a **playground** for learning, experimenting, and
 
 ## Repository Structure
 - `Introduction/` : Introductory Python examples
-- `MonteCarlo/` : Monte Carlo methodthod
+- `MonteCarlo/` : Monte Carlo method
 - `Optimization/` : Function fitting etc.
 
 ---
